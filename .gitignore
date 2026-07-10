@@ -1,8 +1,11 @@
 # Directories
 __pycache__
 bucket
+downloads
 
 # Files
 .env
 abc_dev_prompt.md
+
+# File patterns
 *.log
